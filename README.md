@@ -124,6 +124,18 @@ Grâce à ce projet, j'ai renforcé mes compétences en :
 
 ---
 
+## 📊 Résultats du projet
+
+À travers ce projet, j'ai réalisé :
+
+- ✅ Plus de 60 requêtes SQL.
+- ✅ 5 modules progressifs couvrant les principales notions du langage SQL.
+- ✅ Des analyses basées sur des problématiques métiers.
+- ✅ Un projet final mobilisant plusieurs concepts SQL.
+- ✅ Une documentation complète du projet sur GitHub.
+
+---
+
 # 🎓 Contexte d'apprentissage
 
 Ce projet fait partie de mon parcours de formation vers le métier de **Data Analyst**.
@@ -159,11 +171,16 @@ Mon objectif est d'aider les entreprises à transformer leurs données en inform
 
 # 📫 Me contacter
 
-- 💼 LinkedIn : *(ajouter ton lien LinkedIn)*
+- 💼 LinkedIn : https://www.linkedin.com/in/ousmane-dembele-16381b290/
 - 💻 GitHub : https://github.com/ousdem94-crypto
 
 ---
 
 ⭐ Merci d'avoir pris le temps de consulter ce projet !
+---
+
+> *"Chaque projet est une nouvelle opportunité d'apprendre, d'analyser et de transformer les données en décisions."*
+
+— Ousmane DEMBELE
 
 N'hésite pas à laisser une étoile ⭐ si ce dépôt t'a été utile ou intéressant.
