@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/github-banner.png" alt="SQL Data Analytics Portfolio Banner" width="100%">
+</p>
+
 # 📊 SQL Data Analytics Portfolio – Chinook Database
 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql)
