@@ -1,32 +1,45 @@
-# 📊 SQL Portfolio – Chinook Database
+# 📊 SQL Learning Portfolio – Chinook Database
 
-> Un projet d'apprentissage SQL réalisé sur la base de données **Chinook**, couvrant les principales requêtes utilisées en analyse de données.
+> Un portfolio SQL conçu pour développer et démontrer des compétences en analyse de données à partir de la base de données **Chinook**.
 
 ---
 
 ## 👋 À propos du projet
 
-Ce dépôt présente une série d'exercices SQL organisés de manière progressive afin de développer des compétences solides en interrogation et en analyse de bases de données relationnelles.
+Bienvenue dans mon premier portfolio SQL !
 
-Les exercices sont basés sur la célèbre base de données **Chinook**, largement utilisée pour l'apprentissage du SQL.
+Ce dépôt regroupe une série d'exercices et de mini-projets réalisés dans le cadre de mon parcours vers le métier de **Data Analyst**.
 
----
+Les requêtes sont construites à partir de la base de données **Chinook**, une base relationnelle simulant une plateforme de vente de musique en ligne.
 
-## 🎯 Objectifs
-
-* Comprendre la structure d'une base de données relationnelle.
-* Écrire des requêtes SQL efficaces.
-* Manipuler et filtrer des données.
-* Réaliser des analyses avec des fonctions d'agrégation.
-* Utiliser les jointures entre plusieurs tables.
-* Résoudre des problématiques métiers à l'aide du SQL.
+L'objectif est de mettre en pratique les principales techniques SQL utilisées dans l'analyse de données et la Business Intelligence.
 
 ---
 
-## 📁 Structure du projet
+🌱 Pourquoi ce projet ?
 
-```text
-Projet_SQL_Chinook_Database
+Je suis convaincu que les données permettent de mieux comprendre les problèmes et de prendre de meilleures décisions. Issu du domaine de l'agriculture et de l'agroalimentaire, je développe progressivement mes compétences en Data Analytics afin de contribuer à l'amélioration des performances des organisations grâce aux données.
+
+---
+
+# 🎯 Objectifs du projet
+
+Ce projet m'a permis de développer des compétences essentielles en SQL, notamment :
+
+- Comprendre la structure d'une base de données relationnelle.
+- Écrire des requêtes SQL claires et performantes.
+- Manipuler, filtrer et nettoyer les données.
+- Réaliser des analyses métier.
+- Utiliser les fonctions d'agrégation.
+- Maîtriser les jointures entre plusieurs tables.
+- Résoudre des problématiques réelles grâce aux données.
+
+---
+
+# 📂 Structure du projet
+
+```
+sql-learning-portfolio
 │
 ├── 01_FILTRES.sql
 ├── 02_JOINTURES.sql
@@ -40,112 +53,117 @@ Projet_SQL_Chinook_Database
 
 ---
 
-## 🧠 Compétences SQL développées
+# 📚 Modules réalisés
 
-### Requêtes de base
-
-* SELECT
-* DISTINCT
-* WHERE
-* ORDER BY
-* LIMIT
-
-### Fonctions d'agrégation
-
-* COUNT()
-* SUM()
-* AVG()
-* MIN()
-* MAX()
-
-### Jointures
-
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-
-### Analyse de données
-
-* GROUP BY
-* HAVING
-* Alias
-* Fonctions de dates
-* Sous-requêtes
+| Module | Description | Statut |
+|---------|-------------|:------:|
+| 01 - Filtres | WHERE, ORDER BY, LIMIT, DISTINCT | ✅ |
+| 02 - Jointures | INNER JOIN, LEFT JOIN, RIGHT JOIN | ✅ |
+| 03 - GROUP BY | GROUP BY, HAVING, fonctions d'agrégation | ✅ |
+| 04 - Sous-requêtes | Sous-requêtes simples et corrélées | ✅ |
+| 05 - Projet final | Analyse de données et problématiques métier | ✅ |
 
 ---
 
-## 🛠️ Outils utilisés
+# 🧠 Compétences SQL développées
 
-| Outil   | Utilisation                |
-| ------- | -------------------------- |
-| MySQL   | Base de données            |
+## Requêtes SQL
+
+- SELECT
+- DISTINCT
+- WHERE
+- ORDER BY
+- LIMIT
+
+## Fonctions d'agrégation
+
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+## Analyse de données
+
+- GROUP BY
+- HAVING
+- Alias
+- Fonctions de dates
+- Sous-requêtes
+
+## Jointures
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+
+---
+
+# 🛠️ Technologies utilisées
+
+| Outil | Utilisation |
+|--------|-------------|
+| MySQL | Base de données relationnelle |
 | DBeaver | Exécution des requêtes SQL |
-| Git     | Gestion des versions       |
-| GitHub  | Hébergement du projet      |
+| Git | Gestion des versions |
+| GitHub | Hébergement du projet |
 
 ---
 
-## 🚀 Progression du projet
+# 📈 Compétences acquises
 
-| Module        | Statut |
-| ------------- | :----: |
-| Filtres SQL   |    ✅   |
-| Jointures     |    ✅   |
-| GROUP BY      |    ✅   |
-| Sous-requêtes |    ✅   |
-| Projet final  |    ✅   |
+Grâce à ce projet, j'ai renforcé mes compétences en :
 
----
-
-## 📚 Base de données
-
-La base **Chinook** simule le fonctionnement d'une plateforme de vente de musique en ligne.
-
-Elle contient notamment des informations sur :
-
-* les clients ;
-* les employés ;
-* les factures ;
-* les artistes ;
-* les albums ;
-* les morceaux ;
-* les playlists.
-
-Cette diversité permet de pratiquer des requêtes SQL proches de cas réels.
+- Analyse de données relationnelles
+- Manipulation de bases de données SQL
+- Écriture de requêtes complexes
+- Résolution de problématiques métier
+- Organisation d'un projet technique
+- Documentation de code
+- Utilisation de Git et GitHub
 
 ---
 
-## 🎓 Objectif pédagogique
+# 🎓 Contexte d'apprentissage
 
 Ce projet fait partie de mon parcours de formation vers le métier de **Data Analyst**.
 
-Chaque exercice a été réalisé dans le but de développer des compétences pratiques en SQL et de constituer progressivement un portfolio professionnel sur GitHub.
+Chaque exercice a été réalisé afin de construire progressivement un portfolio professionnel démontrant mes compétences en SQL et en analyse de données.
+
+Ce dépôt sera régulièrement enrichi avec de nouveaux projets et des analyses plus avancées.
 
 ---
 
-## 📈 Compétences mises en œuvre
+# 🚀 Prochaines évolutions
 
-* Écriture de requêtes SQL
-* Analyse de données relationnelles
-* Manipulation de jeux de données
-* Utilisation de Git
-* Utilisation de GitHub
-* Organisation d'un projet technique
+Les prochaines versions de ce portfolio intégreront notamment :
 
----
-
-## 👨‍💻 Auteur
-
-**Ousmane DEMBELE**
-
-Passionné par la Data Analytics, le développement de solutions basées sur les données et les projets agroalimentaires, je développe progressivement mes compétences en SQL, Git et GitHub afin de construire un portfolio professionnel.
+- Analyse avancée des ventes
+- Fonctions analytiques (Window Functions)
+- Création de vues SQL
+- Optimisation des requêtes
+- Dashboards Power BI
+- Études de cas orientées Agriculture & Agroalimentaire
 
 ---
 
-## 📬 Contact
+# 👨‍💻 À propos de moi
 
-GitHub : https://github.com/ousdem94-crypto
+Je m'appelle **Ousmane DEMBELE**.
+
+Je développe actuellement mes compétences en **SQL**, **Excel**, **Power BI** et **Data Analytics**, avec une spécialisation dans les domaines de **l'Agriculture** et de **l'Agroalimentaire**.
+
+Mon objectif est d'aider les entreprises à transformer leurs données en informations utiles pour améliorer leur prise de décision.
 
 ---
 
-⭐ Merci d'avoir consulté ce projet !
+# 📫 Me contacter
+
+- 💼 LinkedIn : *(ajouter ton lien LinkedIn)*
+- 💻 GitHub : https://github.com/ousdem94-crypto
+
+---
+
+⭐ Merci d'avoir pris le temps de consulter ce projet !
+
+N'hésite pas à laisser une étoile ⭐ si ce dépôt t'a été utile ou intéressant.
