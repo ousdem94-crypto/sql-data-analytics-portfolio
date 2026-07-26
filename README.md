@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github-banner.png" alt="SQL Data Analytics Portfolio Banner" width="100%">
+  <img src="images/sql-data-analytics-banner.png" alt="SQL Data Analytics Portfolio Banner" width="100%">
 </p>
 
 # 📊 SQL Data Analytics Portfolio – Chinook Database
