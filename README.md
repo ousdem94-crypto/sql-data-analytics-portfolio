@@ -82,6 +82,14 @@ Ce projet m'a permis de développer des compétences essentielles en SQL, notamm
 ```
 sql-data-analytics-portfolio
 │
+├── Images
+│   ├── sql-data-analytics-banner.png
+│   ├── 01-chinook-schema.PNG
+│   ├── 02-sql-query-top-customers.PNG
+│   ├── 03-sql-results-top-customers.PNG
+│   ├── 04-dbeaver-workspace.PNG
+│   └── 05-github-project-structure.PNG
+|
 ├── 01_FILTRES.sql
 ├── 02_JOINTURES.sql
 ├── 03_GROUP_BY.sql
@@ -268,8 +276,9 @@ Mon objectif est d'aider les entreprises à transformer leurs données en inform
 
 # 📫 Me contacter
 
-- 💼 LinkedIn : https://www.linkedin.com/in/ousmane-dembele-16381b290/
-- 💻 GitHub : https://github.com/ousdem94-crypto
+[💼 LinkedIn](https://www.linkedin.com/in/ousmane-dembele-16381b290/)
+
+[💻 GitHub](https://github.com/ousdem94-crypto)
 
 ---
 
