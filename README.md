@@ -80,7 +80,7 @@ Ce projet m'a permis de développer des compétences essentielles en SQL, notamm
 # 📂 Structure du projet
 
 ```
-sql-learning-portfolio
+sql-data-analytics-portfolio
 │
 ├── 01_FILTRES.sql
 ├── 02_JOINTURES.sql
@@ -91,6 +91,62 @@ sql-learning-portfolio
 ├── Questions.txt
 └── README.md
 ```
+
+---
+
+# 📸 Démonstration du projet
+
+## 🗂️ Schéma de la base Chinook
+
+La base de données Chinook est composée de plusieurs tables relationnelles représentant les clients, les factures, les artistes, les albums et les morceaux.
+
+<p align="center">
+  <img src="Images/01-chinook-schema.PNG" width="90%">
+</p>
+
+---
+
+## 💻 Exemple d'analyse SQL
+
+### Question métier
+
+> Quels sont les 10 clients ayant généré le plus grand chiffre d'affaires ?
+
+### Requête SQL
+
+<p align="center">
+  <img src="Images/02-sql-query-top-customers.PNG" width="90%">
+</p>
+
+### Résultat obtenu
+
+<p align="center">
+  <img src="Images/03-sql-results-top-customers.PNG" width="90%">
+</p>
+
+### Analyse
+
+Cette analyse met en évidence les clients générant le plus de chiffre d'affaires. Elle illustre comment SQL peut être utilisé pour répondre à une problématique métier concrète et fournir des informations utiles à la prise de décision, notamment pour les actions commerciales et les stratégies de fidélisation.
+
+---
+
+## 🛠️ Environnement de développement
+
+Toutes les requêtes SQL ont été développées et testées avec DBeaver connecté à une base MySQL.
+
+<p align="center">
+  <img src="Images/04-dbeaver-workspace.PNG" width="90%">
+</p>
+
+---
+
+## 📁 Organisation du projet
+
+Le dépôt GitHub est organisé par modules afin de faciliter la lecture, la progression pédagogique et la réutilisation des requêtes.
+
+<p align="center">
+  <img src="Images/05-github-project-structure.PNG" width="90%">
+</p>
 
 ---
 
